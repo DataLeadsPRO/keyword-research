@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/keyword-research",
   "description": "Keyword ideas and question discovery for any seed term - volumes, difficulty, and SERP intent.",
   "version": "1.0.0",
