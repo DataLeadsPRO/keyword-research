@@ -1,0 +1,14 @@
+[
+  {
+    "name": "keywords_ideas",
+    "method": "POST",
+    "path": "/keywords/ideas",
+    "description": "V1 Keywords Ideas"
+  },
+  {
+    "name": "keywords_questions",
+    "method": "POST",
+    "path": "/keywords/questions",
+    "description": "V1 Keywords Questions"
+  }
+]
